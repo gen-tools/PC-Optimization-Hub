@@ -175,6 +175,7 @@
 - ## Controller
   - [Gamepadla tests](https://gamepadla.com/)
   - [Input lag sheet](https://docs.google.com/spreadsheets/d/1KlRObr3Be4zLch7Zyqg6qCJzGuhyGmXaOIUrpfncXIM/edit)
+    [GamepadTest](https://www.gamepadtest.tech/)
 - ## Monitor
   - ### Information
     - [Computer Display Reference Guide](https://rentry.co/CDRG)
